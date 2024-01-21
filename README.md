@@ -1,4 +1,4 @@
-![PhonePe Logo](PhonePe_Logo.jpg)
+<img src="PhonePe_Logo.jpg" alt="PhonePe Logo" width="300" height="200">
 
 # PhonePe Pulse Data Visualization
 
