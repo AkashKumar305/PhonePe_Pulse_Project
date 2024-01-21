@@ -1,4 +1,4 @@
-<img src="PhonePe_Logo.jpg" alt="PhonePe Logo" width="300" height="200">
+<img src="PhonePe_Logo.jpg" alt="PhonePe Logo" width="500" height="300">
 
 # PhonePe Pulse Data Visualization
 
