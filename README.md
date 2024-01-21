@@ -1,4 +1,4 @@
-![PhonePe Logo](phonepe-logo.jpg)
+![PhonePe Logo](PhonePe_Logo.jpg)
 
 # PhonePe Pulse Data Visualization
 
