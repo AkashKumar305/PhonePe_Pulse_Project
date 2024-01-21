@@ -1,3 +1,5 @@
+![PhonePe Logo](phonepe-logo.jpg)
+
 # PhonePe Pulse Data Visualization
 
 ## Overview
@@ -10,8 +12,6 @@ Welcome to the PhonePe Pulse Data Visualization project! This repository contain
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -19,11 +19,12 @@ Welcome to the PhonePe Pulse Data Visualization project! This repository contain
 
 Make sure you have the following installed on your system:
 
-- Python 3.x
+- Python 3
 - MySQL
 - Streamlit
 - Plotly
 - Pandas
+- Json
 
 ### Installation
 
@@ -39,7 +40,7 @@ Make sure you have the following installed on your system:
 1. **Start the Streamlit app:**
 
     ```bash
-    streamlit run app.py
+    streamlit run 'PhonePe Main Project.py'
     ```
 
 2. **Open your web browser:**
@@ -63,7 +64,7 @@ Make sure you have the following installed on your system:
 
 - **Map Visualization:**
   - Analyze transaction and user data on an interactive map of India.
-  - Select specific states and districts for detailed analysis.
+  - Select specific states for detailed analysis.
 
 - **Quarterly Analysis:**
   - Dynamically select the year and quarter for analyzing data, ensuring flexibility in exploring different time periods.
