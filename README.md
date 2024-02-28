@@ -68,6 +68,10 @@ Make sure you have the following installed on your system:
 3. Update MySQL connection details in the `start_mysql()` function.
 4. Run the Streamlit app using the command `streamlit run your_script.py`.
 
+## LinkedIn Profile
+Link: www.linkedin.com/in/akashkumarl
+Visit the link to see the project video
+
 ## Features
 
 - **Top Charts:**
